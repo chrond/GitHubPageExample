@@ -1,6 +1,8 @@
+---
 layout: page
 title: "A Test Page"
 permalink: /TestPage/
+---
 
 <h1>{{ page.title }}</h1>
 
